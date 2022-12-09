@@ -31,11 +31,11 @@ global.botname = 'banghw☆' //ubah jadi nama bot mu, note tanda ' gausah di hap
 global.footer = 'banghw☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
-global.packname = 'banghw☆' // ubah aja
-global.ownerr = ['banghw☆'] // ubaha aja
-global.author = 'banghw☆' //ubah aja
+global.owner = ['62895364406642','6289668232568'] // ubah aja pake nomor lu
+global.premium = ['62895364406642','6289668232568'] // ubah aja pake nomor lu
+global.packname = 'kay' // ubah aja
+global.ownerr = ['kay','Ibal'] // ubaha aja
+global.author = 'kay' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
